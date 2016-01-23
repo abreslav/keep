@@ -1,4 +1,4 @@
-# KEEP-1. Kotlin Endhancement and Evolution Process (KEEP)
+# KEEP-1. Kotlin Enhancement/Evolution Process (KEEP)
 
 Abbreviations:
 
