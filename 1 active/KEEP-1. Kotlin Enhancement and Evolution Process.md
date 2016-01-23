@@ -1,10 +1,10 @@
 # KEEP-1. Kotlin Endhancement and Evolution Process (KEEP)
 
-## KEEP States
-
 Abbreviations:
 
 * KEEP - Kotlin Enhancement/Evolution Proposal (or Process)
+
+## KEEP States
 
 * Proposed — an idea has been proposed for consideration
   * Discuss the idea in the community, get some support
