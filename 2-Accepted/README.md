@@ -1,1 +1,3 @@
-KEEPs that are accepted, but not planned yet
+Accepted KEEPs
+
+See the process description [here](KEEP-1. Kotlin Enhancement and Evolution Process.md)
