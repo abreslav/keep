@@ -9,10 +9,10 @@
  
 ## Outstanding issues
  
-[ ] What about the new verifier?
-[ ] Retrolambda compatibility
-[ ] Compiling projects where `java6` and `java8` libraries are intermixed
-[ ] Flesh out the requirements for type annotations
+ - [ ] What about the new verifier?
+ - [ ] Retrolambda compatibility
+ - [ ] Compiling projects where `java6` and `java8` libraries are intermixed
+ - [ ] Flesh out the requirements for type annotations
  
 ## Reference Material
 
