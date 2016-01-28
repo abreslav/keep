@@ -8,7 +8,7 @@
 
 ## Outstanding Issues
   
-[ ] How else are type annotations used in Kotlin 1.0?  
+ - [ ] How else are type annotations used in Kotlin 1.0?  
   
 ## Synopsis
   
